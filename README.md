@@ -1,1 +1,1 @@
-# This is a screenshot for facebook_clone CRUD operations
+# This is a screenshot repo for facebook_clone CRUD operations
